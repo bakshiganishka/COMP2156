@@ -8,6 +8,7 @@
     "build": "react-scripts build",
     "test": "echo \"Error: no test specified\"",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "repository": {
@@ -20,6 +21,7 @@
   "bugs": {
     "url": "https://github.com/bakshiganishka/COMP2156/issues"
   },
+  "homepage": "https://bakshiganishka.github.io/COMP2156",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -46,5 +48,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
