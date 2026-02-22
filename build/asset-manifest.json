@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bakshiganishka/COMP2156/static/css/main.f48a98bf.css",
+    "main.js": "/bakshiganishka/COMP2156/static/js/main.3a674d01.js",
+    "index.html": "/bakshiganishka/COMP2156/index.html",
+    "main.f48a98bf.css.map": "/bakshiganishka/COMP2156/static/css/main.f48a98bf.css.map",
+    "main.3a674d01.js.map": "/bakshiganishka/COMP2156/static/js/main.3a674d01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f48a98bf.css",
+    "static/js/main.3a674d01.js"
+  ]
+}
